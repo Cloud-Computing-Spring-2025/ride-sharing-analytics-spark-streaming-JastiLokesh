@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-JastiLokesh/output/task3/part-00000-eada584c-5fd6-4818-b61e-40e46243cfaf-c000.csv","size":45,"isDir":false,"modificationTime":1743530413015,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-JastiLokesh/output/task3/part-00058-c5e7e0cd-67b8-4997-ab97-c304a112f8a2-c000.csv","size":103,"isDir":false,"modificationTime":1743530414897,"blockReplication":1,"blockSize":33554432,"action":"add"}
